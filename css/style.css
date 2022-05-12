@@ -78,6 +78,13 @@
 .dropdown-menu {
   border-radius: 0;
 }
+.dropdown-menu a {
+  display: flex;
+  align-items: center;
+
+  text-align: left;
+  left: 2px;
+}
 .bi-chevron-compact-right {
   float: right;
 }
