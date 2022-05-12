@@ -83,7 +83,9 @@
   align-items: center;
 }
 .bi-chevron-compact-right {
-  float: right;
+  position: absolute;
+
+  right: 5px !important;
 }
 .fa-solid {
   float: left;
